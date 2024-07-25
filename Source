@@ -1,0 +1,9 @@
+--nice loadstring logger!
+
+function doNothing()
+
+end
+
+doNothing()
+
+return true
